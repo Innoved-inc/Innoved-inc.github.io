@@ -1,0 +1,12 @@
+.innoved {
+    background-color: #a6ce38 !important;
+}
+
+.innoved-list {
+    background-color: #a6ce38;
+}
+
+.innoved-list:hover {
+    background-color: #7da808;
+    color: #fff;
+}
